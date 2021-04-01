@@ -1,7 +1,3 @@
-
-
-## about Me
-
 Hello World, I am Shafa Naura
 
 A Mobile & Web Developer
