@@ -1,8 +1,8 @@
 ### 🙋‍♀️ Hi, <b>Shafa</b> here!
 
-I’m a Freelance Fullstack Engineer working mostly with JavaScript/TypeScript, and yes — I’m open to part-time opportunities (hire me before someone else does 👀).
+I currently work as Freelancer Fullstack Engineer mostly using JavaScript/TypeScript, and yes — I’m open to part-time opportunities (hire me before someone else does 👀).
 
-I help people build websites that actually solve problems, not just sit there looking pretty (although I can do pretty too ✨). From landing pages to web apps, I’m here to bring your ideas to life — with clean code and occasional keyboard smashing.
+I help people build websites that actually solve problems, not just sit there looking pretty (although I can do pretty too ✨). I’m here to bring ideas to life — with clean code and occasional keyboard smashing.
 
 Sometimes I share random thoughts and stories from my journey as a software engineer on [Threads](https://www.threads.com/@shafanaura) in Bahasa — mostly tech, sometimes dramatic monologues about debugging at 2 AM.
 
